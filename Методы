@@ -1,5 +1,4 @@
-﻿Теоретические вопросы
-
+﻿Теоретические вопросы:
 
 Вопрос 1 - B
 Вопрос 2 - A
@@ -9,12 +8,9 @@
 Вопрос 6 - A
 Вопрос 7 - A
 
-
-Практические задания
-
+Практические задания:
 
 Задача 1:
-
 
 public static int SumNumbers(List<int> numbers)
 {
@@ -25,8 +21,8 @@ public static int SumNumbers(List<int> numbers)
         }
         return sum;
 }
-Задача 2:
 
+Задача 2:
 
 public static bool IsPalindrome(string word)
 {
@@ -38,8 +34,8 @@ public static bool IsPalindrome(string word)
         }
         return true;
 }
-Задача 3:
 
+Задача 3:
 
 public static int Factorial(int n)
 {
@@ -50,8 +46,8 @@ public static int Factorial(int n)
         }
         return result;
 }
-Задача 4:
 
+Задача 4:
 
 public static int FindMax(List<int> numbers)
 {
