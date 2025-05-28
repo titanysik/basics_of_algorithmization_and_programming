@@ -1,24 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Массивы
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            /*
-            Вопрос 1:
-            Правильный ответ: 18
-            Вопрос 2:
-            Правильный ответ: 2
-            Вопрос 3:
-            Код вызовет исключение IndexOutOfRangeException
-            Вопрос 4:
-            Правильный ответ: nums[2][1]
+Вопрос 1 - 18
+Вопрос 2 - 2
+Вопрос 3 - Код вызовет исключение IndexOutOfRangeException
+Вопрос 4 - nums[2][1]
              */
             int[,,] mas = {
             { { 1, 2 }, { 3, 4 } },
