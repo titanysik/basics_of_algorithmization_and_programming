@@ -1,2 +1,2 @@
-# basics_of_algorithmization_and_programming
+# Основы алгоритмизации и программирования
 # Кирилин ИПО-21.23
